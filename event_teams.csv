@@ -1,1 +1,37 @@
-event,colour,team_name
+event,teamcolour,teamname
+BftB1,RED,Red Team
+BftB1,BLUE,Blue Team
+BftB1,GREEN,Green Team
+BftB1,YELLOW,Yellow Team
+BftB2,RED,Team Green
+BftB2,BLUE,Team Name
+BftB2,GREEN,Team says skill is necessary
+BftB2,YELLOW,Team Cream
+BftB3,RED,Red Refrigerators
+BftB3,BLUE,Blue Blenders
+BftB3,GREEN,Olive Ovens
+BftB3,YELLOW,Lemon Lawnmowers
+BftB4,RED,Raiders
+BftB4,BLUE,Bandits
+BftB4,GREEN,Gangsters
+BftB4,YELLOW,Yoinkers
+BftB5,RED,Wildfires
+BftB5,BLUE,Storms
+BftB5,GREEN,Earthquakes
+BftB5,YELLOW,Thunders
+BftB6,RED,PastMyBedtime Pigs
+BftB6,BLUE,Drowsy Drowned
+BftB6,GREEN,Cosy Creepers
+BftB6,YELLOW,Hibernating Haybales
+BftB7,RED,Worrying Withers
+BftB7,BLUE,Dreadful Dragons
+BftB7,GREEN,Scary Skeletons
+BftB7,YELLOW,Petrifying Piglins
+BftB8,RED,Pungent Possums 
+BftB8,BLUE,Cuddly Cows
+BftB8,GREEN,Wobbly Wombats
+BftB8,YELLOW,Haphazard Hamsters
+BftB9,RED,Covid Cuties
+BftB9,BLUE,Detergent Divas
+BftB9,GREEN,Stinky Socks
+BftB9,YELLOW,Flu Fighters

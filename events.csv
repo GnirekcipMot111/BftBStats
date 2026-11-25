@@ -1,1 +1,11 @@
-event,date
+event,name,date
+BftB1,BftB#1,2024-08-03
+BftB2,BftB#2,2024-08-24
+BftB3,BftB#3,2024-09-14
+BftB4,BftB#4,2024-11-23
+Mini,BftB Mini,2024-12-07
+BftB5,BftB#5,2025-02-08
+BftB6,BftB#6,2025-03-08
+BftB7,BftB#7,2025-12-04
+BftB8,BftB#8,2026-08-08
+BftB9,BftB#9,2026-11-14
